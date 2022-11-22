@@ -1,2 +1,2 @@
 # AzDoPipelines
-Sample AzDo yaml Pipelines
+Sample AzDo CI/CD yaml Pipelines with SonarCube  
